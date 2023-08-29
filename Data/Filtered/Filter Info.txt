@@ -1,0 +1,2 @@
+Any non-producing/injecting data points ('Well-Status') have been removed from the Filtered datasets.
+Any wells that produced no oil over their lifespan were removed.
